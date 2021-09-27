@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "Vincent",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
