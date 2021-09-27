@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"bootcamp-js.e2ea7481.js","sourceRoot":"..","sourcesContent":["console.log(\"Hi from console\")"]}
